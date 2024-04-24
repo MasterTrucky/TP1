@@ -1,0 +1,6 @@
+1)Une page internet aura besoin d'une balise head et une balise body.
+2)Dans la balise <head>, on retrouve des métadonnées. Par exemple: <title> ou <meta>.
+3)La balise <title>, on la retrouve dans l'onglet de la page HTML.
+4)premier partie: balise ouvrante, deuxième partie: un attribut, troisième partie: le contenu, quatrième partie: balise fermante
+5)Liste non-ordonnée, Liste ordonnée.
+6)la ligne est une balise auto-fermante qui permet d'afficher une image grace a l'attribut "src", elle contient aussi l'attribut "alt" pour les afficher du texte pour les malvoyants.  
